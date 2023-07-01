@@ -5,7 +5,7 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
 <p>
     <img src="https://img.shields.io/pypi/pyversions/numpy" />
     <img src="https://img.shields.io/node/v/react" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Java?&logo=java" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
