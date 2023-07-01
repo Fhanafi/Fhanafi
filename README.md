@@ -3,10 +3,17 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/pypi/pyversions/numpy" />
-    <img src="https://img.shields.io/node/v/react" />
-    <img src="https://img.shields.io/badge/Java?&logo=java" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
+    <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+    <img src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=flat&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
 </p>
 
 ### Stats:
