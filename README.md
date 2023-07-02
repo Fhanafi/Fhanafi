@@ -26,7 +26,7 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:faisalhanafi0698@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+    - ⚡ Fun fact: I'm like traveling </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Fhanafi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
