@@ -35,9 +35,9 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
 
 ### Let's connect!
 <p>
-    <a href="https://linkedin.com/in/faisal-hanafi-8b4409252" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/faisal-hanafi-643091290" target="blank"><img src="https://img.shields.io/badge/faisal-hanafi-643091290f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@faisalhanafi737" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi-30302f?style=flat&logo=medium" /></a>
-    <a href="https://twitter.com/0x0___han" target="blank"><img src="https://img.shields.io/badge/@0x0___han_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/singkat_Han" target="blank"><img src="https://img.shields.io/badge/@singkat_Han_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://facebook.com/profil.php?id=100069192744046" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi_-30302f?style=flat&logo=facebook" /></a>
 </p>
 
