@@ -2,6 +2,7 @@
 Currently working with Nodejs And Python for Software and Embbed, but I love learn new thing in programming such as Javascript, Java, Python.  
 
 ### Tools:
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" type="text/css" media="all" />
 <p>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -24,7 +25,7 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps, Web Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:faisalhanafi0698@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="https://t.me/singkat_han" style="text-decoration:none;"><i class="fa-brands fa-telegram" style="color:#0088cc;"></i> </a> and <a href="mailto: faisalhanafi0698@gmail.com" style="text-decoration:none"><i class="fa fa-envelope" style="color:#c71610;"></i></a></br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: I'm like traveling </br>
 </details>
