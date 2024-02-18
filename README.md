@@ -2,7 +2,6 @@
 Currently working with Nodejs And Python for Software and Embbed, but I love learn new thing in programming such as Javascript, Java, Python.  
 
 ### Tools:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" type="text/css" media="all" />
 <p>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
     <img src="https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -25,7 +24,7 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps, Web Project. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="https://t.me/singkat_han" style="text-decoration:none;"><i class="fa-brands fa-telegram" style="color:#0088cc;"></i> </a> and <a href="mailto: faisalhanafi0698@gmail.com" style="text-decoration:none"><i class="fa fa-envelope" style="color:#c71610;"></i></a></br>
+    - 📫 How to reach me: <a href="https://t.me/singkat_han">Telegram </a> and <a href="mailto: faisalhanafi0698@gmail.com">Gmail</a></br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: I'm like traveling </br>
 </details>
@@ -36,7 +35,7 @@ Currently working with Nodejs And Python for Software and Embbed, but I love lea
 
 ### Let's connect!
 <p>
-    <a href="https://linkedin.com/in/faisal-hanafi-643091290" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.instagram.com/7sinchan7/" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi-30302f?style=flat&logo=instagram&logoColor=%23ffffff" /></a>
     <a href="https://medium.com/@faisalhanafi112" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/singkat_Han" target="blank"><img src="https://img.shields.io/badge/Faisal_Hanafi_-30302f?style=flat&logo=x" /></a>
     <a href="https://www.facebook.com/profile.php?id=100069192744046" target="blank"><img src="https://img.shields.io/badge/Muhammad_Fais_Al_Hanafi_-30302f?style=flat&logo=facebook" /></a>
